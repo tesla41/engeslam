@@ -545,3 +545,8 @@ footer h4{
     text-align: center;
 margin: auto;
   }
+@media  (max-width:767px) {
+footer h4{
+  font-size: 70px
+  }
+}
